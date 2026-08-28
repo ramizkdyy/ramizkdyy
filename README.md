@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Web &amp; mobile software studio</b> — <a href="https://4ourstack.com">4ourstack</a><br>
-  Mobil uygulama, web, e-ticaret, entegrasyon. Aklınızdaki neyse — tasarlarız, kodlarız, yayına alırız.
+  Mobile apps, web, e-commerce, integrations. Whatever you're building — we design it, we build it, we ship it.
 </p>
 
 <p align="center">
@@ -22,26 +22,26 @@
 
 ---
 
-### Ürünler
+### Products
 
-| | Ne | Yığın |
+| | What it is | Stack |
 |---|---|---|
-| **🔥 [lit](https://lit.4ourstack.com)** | Sadece kampüslere açık dating uygulaması. Öğrenci e-postasıyla doğrulama, kampüs içi eşleşme. Arkasında two-tower retrieval + öğrenen bir sıralama modeli, Rekognition ile yüz doğrulama, LLM tabanlı içerik moderasyonu. | Expo · .NET 8 · SQL Server · Redis · SignalR · AWS |
-| **📸 [Hangover](https://apps.apple.com/us/app/hangover-capture-together/id6756030961)** | Partiyi ortak bir tek kullanımlık fotoğraf makinesine çeviriyor: herkes çeker, kimse bakamaz — galeri ertesi sabah açılır. **App Store'da yayında.** | Expo · Firebase · Cloud Functions · Skia |
-| **📍 [Vibe Check](https://vibe-check.4ourstack.com)** | Bir mekânın şu an gerçekte nasıl olduğunu, oradaki insanlardan öğren. Harita üzerinde canlı vibe akışı. | Expo · Mapbox · .NET · SignalR |
-| **🏠 KiraX** | Ev sahibi ↔ kiracı eşleştirme. Rol bazlı akışlar, ilan yönetimi, teklif sistemi, canlı sohbet. | Expo · Redux Toolkit · SignalR · Maps |
-| **👶 PusetGo** | Bebek ürünleri kiralama pazaryeri — tedarikçi ağı, rezervasyon, escrow ödeme ve teslimat onay penceresi. | Expo · Zustand · React + Vite panel |
-| **🌙 Nakş** | Modern Türk müslümanı için gamified manevi farkındalık uygulaması. Turborepo monorepo. | Flutter · Riverpod · NestJS 11 · Prisma · PostgreSQL |
+| **🔥 [lit](https://lit.4ourstack.com)** | Campus-only dating. Verify with your student email, match with people on your campus. Behind it: two-tower retrieval with a learned ranking model, Rekognition face verification, LLM-based content moderation. | Expo · .NET 8 · SQL Server · Redis · SignalR · AWS |
+| **📸 [Hangover](https://apps.apple.com/us/app/hangover-capture-together/id6756030961)** | Turns your party into a shared disposable camera: everyone shoots, nobody peeks — the gallery unlocks the morning after. **Live on the App Store.** | Expo · Firebase · Cloud Functions · Skia |
+| **📍 [Vibe Check](https://vibe-check.4ourstack.com)** | Know what a place actually feels like right now, straight from the people there. Live vibe feed on a map. | Expo · Mapbox · .NET · SignalR |
+| **🏠 KiraX** | Landlord ↔ tenant matching. Role-based flows, listing management, an offer system and real-time chat. | Expo · Redux Toolkit · SignalR · Maps |
+| **👶 PusetGo** | Baby-gear rental marketplace — vetted supplier network, reservations, escrow payments and a delivery-approval window. | Expo · Zustand · React + Vite panel |
+| **🌙 Nakş** | Gamified spiritual-awareness app for the modern Turkish muslim. Turborepo monorepo. | Flutter · Riverpod · NestJS 11 · Prisma · PostgreSQL |
 
-### Müşteri işleri
+### Client work
 
-[Beykoz Cephe](https://www.beykozcephe.com/) · üç dilli kurumsal site &nbsp;|&nbsp; [By Alaz](https://byalaz.com/) · B2B katalog + yönetim paneli &nbsp;|&nbsp; [Walnut Sapling Turkey](https://www.walnutsaplingturkey.com) · ihracat kataloğu &nbsp;|&nbsp; [Sevgi Turan](https://www.sevgituran.com/) · kişisel site
+[Beykoz Cephe](https://www.beykozcephe.com/) · trilingual corporate site &nbsp;|&nbsp; [By Alaz](https://byalaz.com/) · B2B catalog + admin panel &nbsp;|&nbsp; [Walnut Sapling Turkey](https://www.walnutsaplingturkey.com) · export catalog &nbsp;|&nbsp; [Sevgi Turan](https://www.sevgituran.com/) · personal site
 
-### Ne yapıyorum
+### What I do
 
-- **Mobil** — Expo / React Native, dev client + EAS, Reanimated & Skia ile jest odaklı arayüzler, RevenueCat aboneliği, FCM, i18n
-- **Backend** — .NET 8 ve NestJS API'ler, SignalR realtime, Redis, arka plan job'ları, yapılandırılmış hata kodları, Docker + GitHub Actions ile Hetzner'a deploy
-- **Web** — Next.js + Tailwind, GSAP & Lenis ile hareket, SSR/SEO, admin panelleri (Mantine, shadcn/ui)
+- **Mobile** — Expo / React Native, dev client + EAS, gesture-driven UI with Reanimated & Skia, RevenueCat subscriptions, FCM, i18n
+- **Backend** — .NET 8 and NestJS APIs, SignalR realtime, Redis, background jobs, structured error codes, Docker + GitHub Actions deploys to Hetzner
+- **Web** — Next.js + Tailwind, motion with GSAP & Lenis, SSR/SEO, admin panels (Mantine, shadcn/ui)
 
 ---
 
